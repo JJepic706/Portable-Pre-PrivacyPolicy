@@ -22,6 +22,6 @@ The following permissions are utilized by the app. Most are accepted and accesse
 
 ### Links/Developer Contact
 - For Questions/Inquireies, Contact us at one of these emails = mainsoftworks@gmail.com *or* devjoshu13@gmail.com
-- For feedback on my app, Email me or do the following form = *coming soon*
-- Google Play store page = *coming soon*
+- For feedback on my app, Email me or do the following form = https://docs.google.com/forms/d/1LLzzzkhacSsF5QleSp6cSsqe7yGAouuLDa8OwPkLaiE/edit?usp=drivesdk
+- Google Play store page = https://play.google.com/store/apps/details?id=com.main.portablepre&gl=UK&utm_source=emea_OO
 - If you like this app and want to support me, consider donating here = https://www.buymeacoffee.com/devjoshu13
